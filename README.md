@@ -51,3 +51,10 @@ The simulator is designed to support the execution of homogeneous and heterogene
 
 Finally, after successfully running the simulation, results will be saved in the **Homogeneous_Results** or **Heterogeneous_Results** folders based on the executed scenario.
 
+## Citation
+If you use this code, please cite the corresponding paper:
+Babaiyan, V., Bushehrian, O. A deep-reinforcement-learning-based strategy selection approach for fault-tolerant offloading of delay-sensitive tasks in vehicular edge-cloud computing. J Supercomput 81, 708 (2025). https://doi.org/10.1007/s11227-025-07196-9
+
+## License
+MIT License
+
